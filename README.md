@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm zaid samadi<br><br>🌱 I’m currently learning Laravel<br><br>💬 Ask me about JavaScript, Html, CSS, Bootstrap, Sass<br><br>📫 How to reach me zaidsmd111@gmail.com
+Hi 👋, I'm zaid samadi<br><br>🌱 I’m currently learning Laravel<br><br>💬 Ask me about PHP, JavaScript, Html, CSS, Bootstrap, Sass<br><br>📫 How to reach me zaidsmd111@gmail.com
 
 
 ## 🌐 Socials:
